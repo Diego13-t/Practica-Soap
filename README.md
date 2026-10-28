@@ -9,7 +9,7 @@ Dos servicios SOAP (ConversionesService y GeometriaService) con Node.js y Expres
 
 ## Instalación
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone https://github.com/Diego13-t/Practica-Soap.git
 cd Practica-Soap
 npm install
 ```
